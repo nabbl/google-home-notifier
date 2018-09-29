@@ -1,6 +1,6 @@
 {
   "name": "google-home-notify",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "google-home-notifier.js",
   "scripts": {
