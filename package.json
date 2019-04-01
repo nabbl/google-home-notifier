@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "castv2-client": "^1.2.0",
-    "google-tts-api": "0.0.2-alpha.1",
+    "google-tts-api": "0.0.4",
     "bluebird": "3.5.1"
   }
 }
