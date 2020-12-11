@@ -1,6 +1,6 @@
 {
   "name": "google-home-notify",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "main": "google-home-notifier.js",
   "scripts": {
@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "castv2-client": "^1.2.0",
-    "google-tts-api": "0.0.4",
+    "google-tts-api": "0.0.6",
     "bluebird": "3.5.1"
   }
 }
